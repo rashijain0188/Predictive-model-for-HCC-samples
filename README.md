@@ -128,7 +128,7 @@ Predictive-model-for-HCC-samples/
 
 │
 
-├── Scripts/
+├── Preprocessing Scripts/
 
 │   ├── CombatSeq\_Preprocessing\_Training\_DEGs.R
 
@@ -160,7 +160,7 @@ Predictive-model-for-HCC-samples/
 
 Data/ – Training, test, external liver tissue, and serum exosome datasets used in the analysis.
 
-Scripts/ – R and Python scripts for preprocessing, DEG identification, machine-learning/deep-learning model training, and external validation.
+Preprocessing Scripts/ – R and Python scripts for preprocessing, DEG identification, machine-learning/deep-learning model training, and external validation.
 
 Model\_and\_Scaler\_Files/ – Final trained XGBoost model and corresponding scaler used for prediction.
 
