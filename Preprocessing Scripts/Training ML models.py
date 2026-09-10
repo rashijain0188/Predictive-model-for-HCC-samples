@@ -26,7 +26,7 @@ test_file  = r"Test.csv"
 model_dir  = r"Model"
 
 LABEL_COL = "sample_type"    # target column
-GROUP_COL = "Patient"        # Dataset of origin, used for grouped CV
+GROUP_COL = "Patient"        # Patient for sample derivation
 ID_COL    = "ID"             # sample id column, set as index
 
 N_SPLITS   = 10   # 10-fold CV
